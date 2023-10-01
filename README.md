@@ -5,3 +5,10 @@ Just place the superDragControls.js file into threejs/examples/jsm/controls fold
 and place the example html file into threejs/example folder.
 
 You can have an automaticly switchable drag controls.
+
+still have some bugs need to be fixed:
+-selectionBox.selection update;
+-selectionBox coordinate error;
+-class constructure need to be optimized.
+
+I am a newbie...
